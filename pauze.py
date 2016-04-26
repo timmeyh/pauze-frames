@@ -8,7 +8,6 @@ while(1):
 
 
 
-#ANDY LAPTOP ADRES:             88:51:fb:fe:82:b3
 #multicast pauze frame mac:     01-80-C2-00-00-01 01: 80: c2: 00: 00: 01
 
 
